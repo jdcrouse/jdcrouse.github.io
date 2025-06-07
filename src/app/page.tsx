@@ -24,15 +24,16 @@ export default function Home() {
             <h1 className="text-4xl font-bold text-[#2c3e2d] mb-4">
               Jason Crouse
             </h1>
-            <p className="text-lg text-[#4a5d4c] mb-6">
+            <p className="text-lg text-gray-700 mb-4">
               I'm a backend engineer from North Carolina, currently based in
               Cambridge, MA. Since graduating from Northeastern University in
               2020, I have spent my career working in AI and observability.
             </p>
-            <p className="text-lg text-[#4a5d4c] mb-6">
+            <p className="text-lg text-gray-700 mb-4">
               When I'm not at the computer, you can find me outside playing
               tennis or in the mountains skiing, backpacking, and camping. I'm
-              currently working towards my goal of hiking the Appalachian Trail.
+              currently working towards my goal of hiking the entire Appalachian
+              Trail.
             </p>
             <div className="flex gap-4">
               <a
